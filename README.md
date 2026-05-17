@@ -66,7 +66,7 @@ Computer Science graduate passionate about building AI-powered applications and 
 
 ## 📊 GitHub Stats
 
-![Aayush's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=AayushSomvanshi&show_icons=true&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AayushSomvanshi&layout=compact&hide_border=true)
 
 ---
